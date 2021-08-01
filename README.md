@@ -32,6 +32,10 @@ We used this to overcome following problems:
 Mobile Nodes are the Vehicles that are used to communicate with each other by sending the message of the Nodes near or around them. This is done by the use of Blockchain where each node is connected with the hash value message of the previous nodes.
 ![blockchain](https://user-images.githubusercontent.com/54896331/127774003-3a756c85-2d21-492d-a326-3da9147fc717.png)
 
+### Output
+![output_2](https://user-images.githubusercontent.com/54896331/127778050-04e5c143-9fd9-4c49-b7cc-9591094efade.png)
+
+
 
 ### CONCLUSION
 In this Model Privacy is taken care of at each step –
