@@ -27,6 +27,14 @@ The algorithm for privacy is RSA with Digital Signature.
 We used this to overcome following problems:
 1.Avoid some threats using Digital Signature
 2.Many threats for VANET.
+![flowchart](https://user-images.githubusercontent.com/54896331/127773832-89e810bf-c386-49b1-9618-8a92e0498886.PNG)
+### CONCLUSION
+In this Model Privacy is taken care of at each step –
+First the Information of Personal detail are verified
+Then to connect from Trusted authority to Static Node Hybrid Algorithm is  used.
+Then message of traffic is shared between the cars by use of Hash Functions in Blockchain.
+
+
 
 
 
