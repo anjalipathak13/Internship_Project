@@ -28,6 +28,9 @@ We used this to overcome following problems:
 1.Avoid some threats using Digital Signature
 2.Many threats for VANET.
 ![flowchart](https://user-images.githubusercontent.com/54896331/127773832-89e810bf-c386-49b1-9618-8a92e0498886.PNG)
+### MOBILE NODES CONNECTED BY BLOCKCHAIN
+Mobile Nodes are the Vehicles that are used to communicate with each other by sending the message of the Nodes near or around them. This is done by the use of Blockchain where each node is connected with the hash value message of the previous nodes.
+
 ### CONCLUSION
 In this Model Privacy is taken care of at each step –
 First the Information of Personal detail are verified
