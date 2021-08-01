@@ -12,7 +12,11 @@ Many threats for VANET.
 
 ### AUTHENTICATION AND PRIVACY
 Although the excitement surrounding the potential benefits of VANETs is growing, the dynamic nature of VANETs (vehicles can join and leave at will) along with a multitude of system and application related requirements make it very challenging to design efficient methods for ensuring privacy of vehicles.
-  
+
+ ![img2](https://user-images.githubusercontent.com/54896331/127772878-208ab213-c019-4edf-9485-f3cf17bfc3a1.png )
+### MODEL
+The implementation of the Model starts with the verification of the data provided by the user such as the details like phone number, address, car number,personal details of the users is all first verified then stored in the database .All this data is provided or accessible -only to the Trusted Authority . In the whole process only this section is the only one where we are providing the details of the User.
+ 
 
 
 
