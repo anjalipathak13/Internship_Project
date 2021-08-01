@@ -41,6 +41,11 @@ In this Model Privacy is taken care of at each step –
 First the Information of Personal detail are verified
 Then to connect from Trusted authority to Static Node Hybrid Algorithm is  used.
 Then message of traffic is shared between the cars by use of Hash Functions in Blockchain.
+
+## Connect with me
+### Portfolio Website
+Website: https://anjalipathak13.github.io/Personal_Portfolio_Website/
+
 ## THANK YOU! 
 
 
