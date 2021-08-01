@@ -16,6 +16,22 @@ Although the excitement surrounding the potential benefits of VANETs is growing,
  ![img2](https://user-images.githubusercontent.com/54896331/127772878-208ab213-c019-4edf-9485-f3cf17bfc3a1.png )
 ### MODEL
 The implementation of the Model starts with the verification of the data provided by the user such as the details like phone number, address, car number,personal details of the users is all first verified then stored in the database .All this data is provided or accessible -only to the Trusted Authority . In the whole process only this section is the only one where we are providing the details of the User.
+![model_img](https://user-images.githubusercontent.com/54896331/127773676-c11aea4b-5a5e-4a0b-b268-17422a49a004.PNG)
+### OTP VERIFICATION
+OTP is a "One-Time Password" which is randomly generated and sent to your registered mobile number and registered email address for validation of your transaction.
+### BIOMETRIC VERIFICATION
+A fingerprint-based biometric system is essentially a pattern recognition system that recognizes a person by determining the authenticity of his/her fingerprint.
+### HYBRID ALGORITHM
+
+The algorithm for privacy is RSA with Digital Signature.
+We used this to overcome following problems:
+1.Avoid some threats using Digital Signature
+2.Many threats for VANET.
+
+
+
+
+
  
 
 
